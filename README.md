@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am currently learning.
 <!--
 **pigi-3/pigi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

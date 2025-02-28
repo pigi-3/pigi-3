@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am currently learning.
+I am currently learning how to work with GitHub.
+
+I hope you have a nice day 😄
 <!--
 **pigi-3/pigi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
